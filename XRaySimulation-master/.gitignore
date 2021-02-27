@@ -1,0 +1,10 @@
+[Dd]ebug/
+.vs/
+[Ll]ibrary/
+[Ll]ogs/
+[Pp]ackages/
+[Tt]emp/
+[Bb]uilds/
+*/[Bb]uild/
+*/[Bb]uild
+*.csproj
